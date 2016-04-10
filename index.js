@@ -1,20 +1,9 @@
-var express = require('express');
-var app = express();
+var TelegramBot = require('node-telegram-bot-api');
+var token = '211353716:AAEUu013rJ5stdYkMtDtHl1vfmiyHfvHlPM';
+var bot = new TelegramBot(token, {polling: true});
 
-app.set('port', (process.env.PORT || 5000));
-
-app.use(express.static(__dirname + '/public'));
-
-// views is directory for all template files
-app.set('views', __dirname + '/views');
-app.set('view engine', 'ejs');
-
-app.get('/', function(request, response) {
-  response.render('pages/index');
+bot.on('message', function (msg) {
+  var chatId = msg.chat.id;
+  console.log(msg);
+  bot.sendMessage(chatId, "Привет!", {caption: "Я твой бот!"});
 });
-
-app.listen(app.get('port'), function() {
-  console.log('Node app is running on port', app.get('port'));
-});
-
-
