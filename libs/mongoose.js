@@ -15,6 +15,8 @@ var UserSchema = new mongoose.Schema( {
 } );
 var User = db.model("User",UserSchema);
 
-mongoose.connect('mongodb://ds021010.mlab.com:21010/heroku_6tm7lzzs');
+//mongoose.connect('mongodb://localhost/friends');
+
+mongoose.connect('mongodb://friend:Remington23@ds021010.mlab.com:21010/heroku_6tm7lzzs');
 
 module.exports.User = User;
