@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e6f4e5e-4f13-4cbc-ac4d-f17acd975823" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bot.js" afterPath="$PROJECT_DIR$/bot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/mongoose.js" afterPath="$PROJECT_DIR$/libs/mongoose.js" />
     </list>
     <ignored path="node-js-getting-started.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +40,8 @@
       <file leaf-file-name="bot.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bot.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30756578">
-              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.78289473">
+              <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -438,7 +439,7 @@
       <updated>1460311493301</updated>
       <workItem from="1460311494557" duration="16742000" />
       <workItem from="1460363740570" duration="1500000" />
-      <workItem from="1460369754579" duration="1289000" />
+      <workItem from="1460369754579" duration="1507000" />
     </task>
     <task id="LOCAL-00001" summary="start bot">
       <created>1460313922846</created>
@@ -456,7 +457,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19531000" />
+    <option name="totallyTimeSpent" value="19749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -628,8 +629,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30756578">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.78289473">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
