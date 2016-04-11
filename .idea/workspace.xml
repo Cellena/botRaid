@@ -2,362 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e6f4e5e-4f13-4cbc-ac4d-f17acd975823" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\libs\nconf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\.coveralls.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\conf.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\admin.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\aggregation_cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\apm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\bulk\common.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\bulk\ordered.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\bulk\unordered.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\collection.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\command_cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\db.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\gridfs-stream\download.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\gridfs-stream\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\gridfs-stream\upload.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\gridfs\chunk.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\gridfs\grid_store.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\metadata.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\mongo_client.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\mongos.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\read_preference.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\replset.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\server.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\topology_base.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\url_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\lib\utils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\dist\es6-promise.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\dist\es6-promise.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise.umd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise\-internal.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise\asap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise\enumerator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise\polyfill.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise\promise.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise\promise\all.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise\promise\race.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise\promise\reject.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise\promise\resolve.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\lib\es6-promise\utils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\es6-promise\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\.coveralls.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\TESTING.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\conf.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\auth\gssapi.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\auth\mongocr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\auth\plain.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\auth\scram.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\auth\sspi.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\auth\x509.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\connection\commands.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\connection\connection.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\connection\logger.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\connection\pool.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\connection\utils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\error.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\tools\smoke_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\command_result.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\mongos.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\read_preference.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\replset.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\replset_state.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\session.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\strategies\ping.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\wireprotocol\2_4_support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\wireprotocol\2_6_support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\wireprotocol\3_2_support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\wireprotocol\commands.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\lib\wireprotocol\shared.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\HISTORY" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\alternate_parsers\bson.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\alternate_parsers\faster_bson.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\browser_build\bson.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\browser_build\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\deserializer_bak.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\binary.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\binary_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\bson.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\code.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\db_ref.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\double.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\float_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\long.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\map.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\max_key.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\min_key.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\objectid.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\calculate_size.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\deserializer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\parser\serializer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\regexp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\symbol.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\lib\bson\timestamp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\bson\tools\gleak.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\.bin\semver" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\.bin\semver.cmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\resolve-from\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\resolve-from\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\resolve-from\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\resolve-from\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\bin\semver" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\range.bnf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\semver.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\test\big-numbers.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\test\clean.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\test\gtr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\test\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\test\ltr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\node_modules\semver\test\major-minor-patch.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\node_modules\require_optional\test\require_optional_tests.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\mongodb-core\simple_2_document_limit_toArray.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\duplex.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\lib\_stream_duplex.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\lib\_stream_passthrough.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\lib\_stream_readable.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\lib\_stream_transform.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\lib\_stream_writable.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\core-util-is\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\core-util-is\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\core-util-is\float.patch" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\core-util-is\lib\util.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\core-util-is\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\core-util-is\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\inherits\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\inherits\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\inherits\inherits.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\inherits\inherits_browser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\inherits\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\inherits\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\isarray\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\isarray\build\build.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\isarray\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\isarray\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\isarray\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\string_decoder\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\string_decoder\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\string_decoder\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\string_decoder\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\node_modules\string_decoder\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\passthrough.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\readable.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\transform.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\node_modules\readable-stream\writable.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\mongodb\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\lib\nconf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\lib\nconf\common.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\lib\nconf\formats.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\lib\nconf\provider.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\lib\nconf\stores\argv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\lib\nconf\stores\env.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\lib\nconf\stores\file.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\lib\nconf\stores\literal.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\lib\nconf\stores\memory.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\async\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\async\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\async\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\async\dist\async.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\async\dist\async.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\async\lib\async.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\async\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\ini\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\ini\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\ini\ini.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\ini\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\secure-keys\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\secure-keys\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\secure-keys\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\secure-keys\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\secure-keys\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\secure-keys\test\simple-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\secure-keys\test\test.secret.key" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\completion.sh.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\lib\completion.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\lib\parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\lib\tokenize-arg-string.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\lib\usage.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\lib\validation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\de.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\en.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\es.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\fr.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\id.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\ja.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\ko.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\nb.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\pirate.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\pl.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\pt.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\pt_BR.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\tr.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\locales\zh.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\.bin\window-size" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\.bin\window-size.cmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\camelcase\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\camelcase\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\camelcase\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\camelcase\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\.coveralls.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\strip-ansi\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\strip-ansi\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\strip-ansi\node_modules\ansi-regex\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\strip-ansi\node_modules\ansi-regex\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\strip-ansi\node_modules\ansi-regex\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\strip-ansi\node_modules\ansi-regex\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\strip-ansi\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\strip-ansi\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\wrap-ansi\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\wrap-ansi\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\wrap-ansi\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\node_modules\wrap-ansi\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\cliui\test\cliui.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\decamelize\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\decamelize\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\decamelize\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\decamelize\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\node_modules\lcid\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\node_modules\lcid\lcid.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\node_modules\lcid\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\node_modules\lcid\node_modules\invert-kv\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\node_modules\lcid\node_modules\invert-kv\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\node_modules\lcid\node_modules\invert-kv\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\node_modules\lcid\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\node_modules\lcid\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\os-locale\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\code-point-at\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\code-point-at\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\code-point-at\node_modules\number-is-nan\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\code-point-at\node_modules\number-is-nan\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\code-point-at\node_modules\number-is-nan\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\code-point-at\node_modules\number-is-nan\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\code-point-at\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\code-point-at\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\is-fullwidth-code-point\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\is-fullwidth-code-point\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\is-fullwidth-code-point\node_modules\number-is-nan\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\is-fullwidth-code-point\node_modules\number-is-nan\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\is-fullwidth-code-point\node_modules\number-is-nan\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\is-fullwidth-code-point\node_modules\number-is-nan\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\is-fullwidth-code-point\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\is-fullwidth-code-point\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\strip-ansi\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\strip-ansi\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\strip-ansi\node_modules\ansi-regex\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\strip-ansi\node_modules\ansi-regex\license" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\strip-ansi\node_modules\ansi-regex\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\strip-ansi\node_modules\ansi-regex\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\strip-ansi\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\node_modules\strip-ansi\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\string-width\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\window-size\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\window-size\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\window-size\cli.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\window-size\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\window-size\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\y18n\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\y18n\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\y18n\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\node_modules\y18n\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\node_modules\yargs\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\common-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\complete-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\bom.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\complete.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\data.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\hierarchy\global.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\hierarchy\hierarchical.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\hierarchy\user.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\malformed.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\merge\file1.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\merge\file2.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\no-bom.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\scripts\nconf-argv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\scripts\nconf-change-argv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\scripts\nconf-env.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\scripts\nconf-hierarchical-file-argv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\scripts\nconf-hierarchical-load-merge.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\scripts\nconf-hierarchical-load-save.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\scripts\nconf-nested-env.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\scripts\provider-argv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\scripts\provider-env.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\fixtures\secure.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\hierarchy-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\mocks\mock-store.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\nconf-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\provider-save-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\provider-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\stores\argv-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\stores\env-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\stores\file-store-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\stores\literal-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\test\stores\memory-store-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Igor.Suhoverhov.IT-NS\bot\aqueous-plateau-79187\node_modules\nconf\usage.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bot.js" afterPath="$PROJECT_DIR$/bot.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/mongoose.js" afterPath="$PROJECT_DIR$/libs/mongoose.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node-js-getting-started.iws" />
@@ -395,8 +39,8 @@
       <file leaf-file-name="bot.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bot.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7269737">
-              <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.30756578">
+              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -794,7 +438,7 @@
       <updated>1460311493301</updated>
       <workItem from="1460311494557" duration="16742000" />
       <workItem from="1460363740570" duration="1500000" />
-      <workItem from="1460369754579" duration="1217000" />
+      <workItem from="1460369754579" duration="1289000" />
     </task>
     <task id="LOCAL-00001" summary="start bot">
       <created>1460313922846</created>
@@ -812,11 +456,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19459000" />
+    <option name="totallyTimeSpent" value="19531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -828,7 +472,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -984,8 +628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7269737">
-          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.30756578">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>

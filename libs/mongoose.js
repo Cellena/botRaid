@@ -9,6 +9,7 @@ db.once('open', function() {
 });
 
 var UserSchema = new mongoose.Schema( {
+    id: { type: String, index: true },
     first_name: { type: String},
     current_friend_id: { type: String }
 } );
